@@ -1,4 +1,4 @@
-# SupContrast: Supervised Contrastive Learning
+<!-- # SupContrast: Supervised Contrastive Learning
 <p align="center">
   <img src="figures/teaser.png" width="700">
 </p>
@@ -133,5 +133,5 @@ and
     journal = {arXiv preprint arXiv:2004.11362},
     year    = {2020},
 }
-```
+``` -->
 # SupCon_GAMMA
