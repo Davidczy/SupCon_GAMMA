@@ -134,5 +134,13 @@ and
     year    = {2020},
 }
 ``` -->
-# SupCon_GAMMA
-111111
+# COROLLA: An Efficient Multi-Modality Fusion Framework with Supervised Contrastive Learning for Glaucoma Grading
+
+This repo covers an reference implementation for the following papers in PyTorch：
+(1) COROLLA: An Efficient Multi-Modality Fusion Framework with Supervised Contrastive Learning for Glaucoma Grading [paper](https://arxiv.org/abs/2201.03795)
+
+For the supervised contrastive part, this repo is based on the following paper:
+(1) Supervised Contrastive Learning. [Paper](https://arxiv.org/abs/2004.11362) [code](https://github.com/HobbitLong/SupContrast)
+
+The contribution of COROLLA is finding a new modality generated from OCT volumes to achieve better and faster dignosis performance on glaucoma grading task. The dataset is available at
+
