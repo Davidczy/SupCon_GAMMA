@@ -142,5 +142,5 @@ This repo covers an reference implementation for the following papers in PyTorch
 For the supervised contrastive part, this repo is based on the following paper: \
 (1) Supervised Contrastive Learning. [Paper](https://arxiv.org/abs/2004.11362) / [code](https://github.com/HobbitLong/SupContrast)
 
-The contribution of COROLLA is finding a new modality generated from OCT volumes to achieve better and faster dignosis performance on glaucoma grading task. The dataset is available at [here](https://gamma.grand-challenge.org/)
+The contribution of COROLLA is finding a new modality generated from OCT volumes to achieve better and faster dignosis performance on glaucoma grading task. The dataset is available [here](https://gamma.grand-challenge.org/)
 
